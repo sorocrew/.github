@@ -4,6 +4,9 @@
 
 > **The Soroban dApp Developer Environment** — Built strictly for Web3 developers on the Stellar blockchain.
 
+* 🖥️ **Live SoroCrew Studio:** [https://crew-studio-six.vercel.app/](https://crew-studio-six.vercel.app/)
+* 📚 **Live Documentation:** [https://crew-crew-fc59.vercel.app/](https://crew-crew-fc59.vercel.app/)
+
 SoroCrew is an open-source suite of developer tools, desktop browser environments, and Web3 provider SDKs designed to streamline local testing, debugging, and building smart contracts on Stellar and Soroban.
 
 ---
